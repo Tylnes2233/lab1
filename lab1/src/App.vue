@@ -4,8 +4,8 @@ import ThemeManager from './ThemeManager.vue'
 import Preview from './Preview.vue'
 
 const theme = ref({
-  bgColor: '#f8fafc',
-  textColor: '#1e293b',
+  bgColor: '#1e293b',
+  textColor: '#f8fafc',
   primaryColor: '#3b82f6',
   fontSize: 16,
   borderRadius: 8,

@@ -78,9 +78,15 @@ const onInput = (key, event) => {
 .manager-panel {
   flex: 1;
   background: #f1f5f9;
+  color: #1e293b;
   padding: 20px;
   border-radius: 8px;
   border: 1px solid #cbd5e1;
+}
+
+.manager-panel h3 {
+  margin-top: 0;
+  color: #0f172a;
 }
 
 .control-item {
@@ -93,5 +99,6 @@ const onInput = (key, event) => {
 label {
   font-size: 14px;
   font-weight: bold;
+  color: #1e293b;
 }
 </style>
